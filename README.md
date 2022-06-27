@@ -11,6 +11,7 @@ Menu for showing shows and searching shows.
 
 * Shows Details. Clicking on show image , we can see the details of show.
 
+![TvMazeApp](tv-maze.webm)
 
 
 # vue-app
